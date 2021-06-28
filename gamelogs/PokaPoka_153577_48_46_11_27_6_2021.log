@@ -1,0 +1,21 @@
+[PokaPoka @ 527634ms/48s/46m/11h, 27d/6mo/2021y] --> Beginning game startup and startup-finish
+[PokaPoka @ 307597ms/49s/46m/11h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(4) --> removed from inventory
+[PokaPoka @ 722657ms/49s/46m/11h, 27d/6mo/2021y] --> Item Entity[rgb(74-60-120), size(50-50) @ pos(199-54)] interacted with hotbar slot(3) --> added to inventory
+[PokaPoka @ 722657ms/49s/46m/11h, 27d/6mo/2021y] --> Overflow item Entity[rgb(177-193-230), size(50-50) @ pos(500.0-375.0)] interacted with hotbar slot(4) --> added to inventory
+[PokaPoka @ 722657ms/49s/46m/11h, 27d/6mo/2021y] --> Item Entity[rgb(74-60-120), size(50-50) @ pos(199-54)] interacted with hotbar slot(4) --> added to inventory
+[PokaPoka @ 722657ms/49s/46m/11h, 27d/6mo/2021y] --> Overflow item Entity[rgb(177-193-230), size(50-50) @ pos(500.0-375.0)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 578187ms/51s/46m/11h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(4) --> removed from inventory
+[PokaPoka @ 728208ms/52s/46m/11h, 27d/6mo/2021y] --> Item Entity[rgb(74-60-120), size(50-50) @ pos(349-51)] interacted with hotbar slot(6) --> added to inventory
+[PokaPoka @ 825073ms/54s/46m/11h, 27d/6mo/2021y] --> Item Entity[rgb(74-60-120), size(50-50) @ pos(406-47)] interacted with hotbar slot(7) --> added to inventory
+[PokaPoka @ 881153ms/54s/46m/11h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(7) --> removed from inventory
+[PokaPoka @ 20141ms/55s/46m/11h, 27d/6mo/2021y] --> Item Entity[rgb(74-60-120), size(50-50) @ pos(406-47)] interacted with hotbar slot(7) --> added to inventory
+[PokaPoka @ 603870ms/56s/46m/11h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(7) --> removed from inventory
+[PokaPoka @ 704251ms/57s/46m/11h, 27d/6mo/2021y] --> Item Entity[rgb(74-60-120), size(50-50) @ pos(250-46)] interacted with hotbar slot(4) --> added to inventory
+[PokaPoka @ 660083ms/58s/46m/11h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 447950ms/59s/46m/11h, 27d/6mo/2021y] --> Item Entity[rgb(177-193-230), size(50-50) @ pos(237-30)] interacted with hotbar slot(4) --> added to inventory
+[PokaPoka @ 447950ms/59s/46m/11h, 27d/6mo/2021y] --> Overflow item Entity[rgb(74-60-120), size(50-50) @ pos(250-46)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 447950ms/59s/46m/11h, 27d/6mo/2021y] --> Item Entity[rgb(177-193-230), size(50-50) @ pos(237-30)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 447950ms/59s/46m/11h, 27d/6mo/2021y] --> Overflow item Entity[rgb(74-60-120), size(50-50) @ pos(250-46)] interacted with hotbar slot(7) --> added to inventory
+[PokaPoka @ 84456ms/1s/47m/11h, 27d/6mo/2021y] --> Attempted to QUIT @ Esc key
+[PokaPoka @ 84456ms/1s/47m/11h, 27d/6mo/2021y] --> Shutting down (2nd to last) final!
+[PokaPoka @ 84456ms/1s/47m/11h, 27d/6mo/2021y] --> Exported game log

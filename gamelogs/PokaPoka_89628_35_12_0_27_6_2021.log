@@ -1,0 +1,471 @@
+[PokaPoka @ 548405ms/35s/12m/0h, 27d/6mo/2021y] --> Beginning game startup and startup-finish
+[PokaPoka @ 885550ms/36s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(501-58)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 885550ms/36s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 898516ms/36s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(501-58)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 898516ms/36s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 913680ms/36s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(501-58)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 913680ms/36s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 928092ms/36s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(501-58)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 929091ms/36s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 942059ms/36s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(501-58)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 942059ms/36s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 956619ms/36s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(501-58)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 956619ms/36s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 970610ms/36s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(501-58)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 970610ms/36s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 983568ms/36s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(501-58)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 983568ms/36s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 998528ms/36s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(501-58)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 998528ms/36s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 13490ms/37s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(501-58)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 13490ms/37s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 28450ms/37s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(501-58)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 28450ms/37s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 41420ms/37s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(501-58)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 41420ms/37s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 54808ms/37s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(501-58)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 55806ms/37s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 68816ms/37s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(501-58)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 70785ms/37s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 84745ms/37s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(501-58)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 85743ms/37s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 99703ms/37s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(501-58)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 99703ms/37s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 113667ms/37s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(501-58)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 113667ms/37s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 126632ms/37s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(501-58)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 126632ms/37s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 139602ms/37s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(501-58)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 139602ms/37s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 153572ms/37s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(501-58)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 153572ms/37s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 166640ms/37s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(501-58)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 166640ms/37s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 181623ms/37s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(501-58)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 181623ms/37s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 195574ms/37s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(501-58)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 195574ms/37s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 208541ms/37s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(501-58)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 208541ms/37s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 221508ms/37s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(501-58)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 221508ms/37s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 234471ms/37s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(501-58)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 234471ms/37s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 249243ms/37s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(501-58)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 250240ms/37s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 263204ms/37s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(501-58)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 263204ms/37s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 276170ms/37s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(501-58)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 276170ms/37s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 289167ms/37s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(501-58)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 289167ms/37s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 304127ms/37s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(501-58)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 304127ms/37s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 318087ms/37s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(501-58)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 318087ms/37s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 332051ms/37s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(501-58)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 332051ms/37s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 345984ms/37s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(501-58)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 345984ms/37s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 358953ms/37s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(501-58)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 358953ms/37s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 372103ms/37s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(501-58)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 372103ms/37s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 385065ms/37s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(501-58)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 386062ms/37s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 401022ms/37s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(501-58)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 401022ms/37s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 416184ms/37s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(501-58)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 416184ms/37s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 516064ms/40s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 516064ms/40s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 530030ms/40s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 531022ms/40s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 544982ms/40s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 545980ms/40s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 560941ms/40s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 560941ms/40s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 573907ms/40s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 574910ms/40s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 587871ms/40s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 588866ms/40s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 601830ms/40s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 602829ms/40s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 614795ms/40s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 615794ms/40s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 627761ms/40s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 628759ms/40s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 641733ms/40s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 641733ms/40s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 654691ms/40s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 654691ms/40s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 667656ms/40s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 667656ms/40s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 682614ms/40s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 682614ms/40s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 696576ms/40s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 696576ms/40s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 711535ms/40s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 711535ms/40s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 724499ms/40s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 724499ms/40s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 737441ms/40s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 737441ms/40s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 750398ms/40s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 750398ms/40s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 764919ms/40s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 765826ms/40s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 779785ms/40s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 780782ms/40s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 795477ms/40s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 795477ms/40s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 810402ms/40s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 811411ms/40s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 824368ms/40s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 825363ms/40s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 838359ms/40s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 838359ms/40s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 853289ms/40s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 854289ms/40s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 867264ms/40s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 867264ms/40s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 880788ms/40s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 881785ms/40s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 895013ms/40s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 895013ms/40s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 907982ms/40s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 907982ms/40s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 920923ms/40s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 921914ms/40s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 933914ms/40s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 934911ms/40s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 948871ms/40s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 949838ms/40s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 963830ms/40s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 964798ms/40s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 978797ms/40s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 979792ms/40s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 991793ms/40s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 992787ms/40s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 4726ms/41s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 5758ms/41s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 21818ms/41s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 21818ms/41s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 35775ms/41s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 35775ms/41s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 49739ms/41s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 49739ms/41s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 64700ms/41s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 64700ms/41s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 79187ms/41s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 300381ms/44s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 315864ms/44s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 315864ms/44s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 328985ms/44s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 329988ms/44s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 345018ms/44s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 345018ms/44s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 357983ms/44s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 357983ms/44s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 370953ms/44s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 371947ms/44s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 383941ms/44s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 383941ms/44s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 398904ms/44s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 399898ms/44s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 413941ms/44s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 414911ms/44s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 428586ms/44s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 428586ms/44s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 441552ms/44s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 441552ms/44s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 454518ms/44s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 454518ms/44s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 467512ms/44s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 467512ms/44s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 482442ms/44s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 482442ms/44s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 497415ms/44s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 497415ms/44s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 512403ms/44s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 512403ms/44s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 525340ms/44s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 525340ms/44s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 538311ms/44s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 539312ms/44s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 554289ms/44s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 554289ms/44s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 568228ms/44s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 569225ms/44s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 583183ms/44s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 583183ms/44s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 599141ms/44s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 600140ms/44s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 613107ms/44s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 613107ms/44s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 627068ms/44s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 627068ms/44s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 640036ms/44s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(313-44)] interacted with hotbar slot(5) --> added to inventory
+[PokaPoka @ 641037ms/44s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(5) --> removed from inventory
+[PokaPoka @ 277455ms/47s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(503-41)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 277455ms/47s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 291450ms/47s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(503-41)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 291450ms/47s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 303899ms/47s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(503-41)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 304921ms/47s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 316858ms/47s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(503-41)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 317855ms/47s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 331818ms/47s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(503-41)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 332816ms/47s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 345834ms/47s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(503-41)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 346833ms/47s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 359810ms/47s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(503-41)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 360809ms/47s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 372808ms/47s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(503-41)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 373804ms/47s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 387733ms/47s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(503-41)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 387733ms/47s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 400698ms/47s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(503-41)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 400698ms/47s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 413663ms/47s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(503-41)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 413663ms/47s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 426633ms/47s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(503-41)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 426633ms/47s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 439600ms/47s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(503-41)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 439600ms/47s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 454585ms/47s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(503-41)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 454585ms/47s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 468518ms/47s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(503-41)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 468518ms/47s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 481483ms/47s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(503-41)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 481483ms/47s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 494447ms/47s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(503-41)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 494447ms/47s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 508414ms/47s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(503-41)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 508414ms/47s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 521378ms/47s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(503-41)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 521378ms/47s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 534341ms/47s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(503-41)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 534341ms/47s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 550303ms/47s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(503-41)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 550303ms/47s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 565257ms/47s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(503-41)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 565257ms/47s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 580223ms/47s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(503-41)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 580223ms/47s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 595180ms/47s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(503-41)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 595180ms/47s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 608176ms/47s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(503-41)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 608176ms/47s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 622106ms/47s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(503-41)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 622106ms/47s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 636067ms/47s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(503-41)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 637069ms/47s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 649032ms/47s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(503-41)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 649032ms/47s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 661999ms/47s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(503-41)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 661999ms/47s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 674968ms/47s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(503-41)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 675964ms/47s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 689929ms/47s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(503-41)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 690932ms/47s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 702889ms/47s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(503-41)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 703891ms/47s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 716852ms/47s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(503-41)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 717850ms/47s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 730816ms/47s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(503-41)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 731812ms/47s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 744777ms/47s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(503-41)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 745776ms/47s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 757748ms/47s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(503-41)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 758744ms/47s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 771737ms/47s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(503-41)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 771737ms/47s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 784671ms/47s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(503-41)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 784671ms/47s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 799634ms/47s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(503-41)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 799634ms/47s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 813861ms/47s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(503-41)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 814861ms/47s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 829815ms/47s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(503-41)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 829815ms/47s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 844769ms/47s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(503-41)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 844769ms/47s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 857739ms/47s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(503-41)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 858733ms/47s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 872693ms/47s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(503-41)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 872693ms/47s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 889653ms/47s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(503-41)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 889653ms/47s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 903612ms/47s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(503-41)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 903612ms/47s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 916604ms/47s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(503-41)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 916604ms/47s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 929574ms/47s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(503-41)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 929574ms/47s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 942509ms/47s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(503-41)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 942509ms/47s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 955506ms/47s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(503-41)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 955506ms/47s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 555200ms/50s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 555200ms/50s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 568168ms/50s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 568168ms/50s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 583127ms/50s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 584126ms/50s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 597091ms/50s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 597091ms/50s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 612054ms/50s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 612054ms/50s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 625016ms/50s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 626014ms/50s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 638979ms/50s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 639980ms/50s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 651944ms/50s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 652942ms/50s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 665936ms/50s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 666934ms/50s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 681415ms/50s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 681415ms/50s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 695950ms/50s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 696948ms/50s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 709914ms/50s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 710912ms/50s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 722881ms/50s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 723878ms/50s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 737105ms/50s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 737105ms/50s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 754295ms/50s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 754295ms/50s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 767261ms/50s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 767261ms/50s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 781224ms/50s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 781224ms/50s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 796086ms/50s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 796086ms/50s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 809051ms/50s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 809051ms/50s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 822263ms/50s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 822263ms/50s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 835229ms/50s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 835229ms/50s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 849557ms/50s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 849557ms/50s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 863906ms/50s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 864906ms/50s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 878614ms/50s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 878614ms/50s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 891579ms/50s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 891579ms/50s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 904512ms/50s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 904512ms/50s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 917984ms/50s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 918982ms/50s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 932949ms/50s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 932949ms/50s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 946876ms/50s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 947875ms/50s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 959878ms/50s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 960842ms/50s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 972810ms/50s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 973826ms/50s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 988353ms/50s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 988353ms/50s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 4626ms/51s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 4626ms/51s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 18589ms/51s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 18589ms/51s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 36975ms/51s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 37972ms/51s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 49939ms/51s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 49939ms/51s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 65366ms/51s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 65366ms/51s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 80293ms/51s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 80293ms/51s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 94255ms/51s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 95253ms/51s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 109217ms/51s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 109217ms/51s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 123178ms/51s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 123178ms/51s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 138142ms/51s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 138142ms/51s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 153098ms/51s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 154097ms/51s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 167095ms/51s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 168090ms/51s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 181024ms/51s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 181024ms/51s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 193989ms/51s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 194986ms/51s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 206955ms/51s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 207952ms/51s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 220925ms/51s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 221915ms/51s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 233883ms/51s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 234882ms/51s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 248871ms/51s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 249874ms/51s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 263802ms/51s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 264801ms/51s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 278633ms/51s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 278633ms/51s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 292569ms/51s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 292569ms/51s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 305565ms/51s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 305565ms/51s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 318496ms/51s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 318496ms/51s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 333457ms/51s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 333457ms/51s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 348483ms/51s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 348483ms/51s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 363051ms/51s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 363051ms/51s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 378012ms/51s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 378012ms/51s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 391975ms/51s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 391975ms/51s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 405967ms/51s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 405967ms/51s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 419902ms/51s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 420896ms/51s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 432861ms/51s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 433859ms/51s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 448109ms/51s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 448109ms/51s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 463077ms/51s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 463077ms/51s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 476882ms/51s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 477882ms/51s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 489851ms/51s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 490850ms/51s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 503816ms/51s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 503816ms/51s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 516777ms/51s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 516777ms/51s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 532735ms/51s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 532735ms/51s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 545698ms/51s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 545698ms/51s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 559662ms/51s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 559662ms/51s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 573624ms/51s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 573624ms/51s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 587593ms/51s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 587593ms/51s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 604545ms/51s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 604545ms/51s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 618502ms/51s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 618502ms/51s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 632465ms/51s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 632465ms/51s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 647424ms/51s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 647424ms/51s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 660929ms/51s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 661926ms/51s/12m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 674891ms/51s/12m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(494-65)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 674891ms/51s/12m/0h, 27d/6mo/2021y] --> Attempted to QUIT @ Esc key
+[PokaPoka @ 674891ms/51s/12m/0h, 27d/6mo/2021y] --> Shutting down (2nd to last) final!
+[PokaPoka @ 674891ms/51s/12m/0h, 27d/6mo/2021y] --> Exported game log

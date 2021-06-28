@@ -1,0 +1,8 @@
+[PokaPoka @ 378841ms/44s/51m/0h, 27d/6mo/2021y] --> Beginning game startup and startup-finish
+[PokaPoka @ 743683ms/45s/51m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(4) --> removed from inventory
+[PokaPoka @ 737859ms/51s/51m/0h, 27d/6mo/2021y] --> Item Entity[rgb(100-132-140), size(50-50) @ pos(389-52)] interacted with hotbar slot(7) --> added to inventory
+[PokaPoka @ 262555ms/55s/51m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(3) --> removed from inventory
+[PokaPoka @ 664715ms/56s/51m/0h, 27d/6mo/2021y] --> Item Entity[rgb(139-201-152), size(50-50) @ pos(198-48)] interacted with hotbar slot(3) --> added to inventory
+[PokaPoka @ 701563ms/2s/52m/0h, 27d/6mo/2021y] --> Attempted to QUIT @ Esc key
+[PokaPoka @ 701563ms/2s/52m/0h, 27d/6mo/2021y] --> Shutting down (2nd to last) final!
+[PokaPoka @ 701563ms/2s/52m/0h, 27d/6mo/2021y] --> Exported game log

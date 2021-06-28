@@ -1,0 +1,17 @@
+[PokaPoka @ 514505ms/13s/5m/20h, 27d/6mo/2021y] --> Beginning game startup and startup-finish
+[PokaPoka @ 314332ms/16s/5m/20h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(708.0-668)] with expected peak @ (x:708.0, y:100)
+[PokaPoka @ 329861ms/16s/5m/20h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(705.0-668)] with expected peak @ (x:705.0, y:100)
+[PokaPoka @ 346127ms/16s/5m/20h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(702.0-666)] with expected peak @ (x:702.0, y:100)
+[PokaPoka @ 362254ms/16s/5m/20h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(699.0-662)] with expected peak @ (x:699.0, y:100)
+[PokaPoka @ 378126ms/16s/5m/20h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(696.0-656)] with expected peak @ (x:696.0, y:100)
+[PokaPoka @ 394703ms/16s/5m/20h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(693.0-648)] with expected peak @ (x:693.0, y:100)
+[PokaPoka @ 412155ms/16s/5m/20h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(690.0-638)] with expected peak @ (x:690.0, y:100)
+[PokaPoka @ 428941ms/16s/5m/20h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(687.0-626)] with expected peak @ (x:687.0, y:100)
+[PokaPoka @ 445327ms/16s/5m/20h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(684.0-612)] with expected peak @ (x:684.0, y:100)
+[PokaPoka @ 460767ms/16s/5m/20h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(681.0-596)] with expected peak @ (x:681.0, y:100)
+[PokaPoka @ 477217ms/16s/5m/20h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(678.0-578)] with expected peak @ (x:678.0, y:100)
+[PokaPoka @ 492872ms/16s/5m/20h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(675.0-558)] with expected peak @ (x:675.0, y:100)
+[PokaPoka @ 509896ms/16s/5m/20h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(672.0-536)] with expected peak @ (x:672.0, y:100)
+[PokaPoka @ 768249ms/19s/5m/20h, 27d/6mo/2021y] --> Attempted to QUIT @ Esc key
+[PokaPoka @ 768249ms/19s/5m/20h, 27d/6mo/2021y] --> Shutting down (2nd to last) final!
+[PokaPoka @ 768249ms/19s/5m/20h, 27d/6mo/2021y] --> Exported game log as PokaPoka_89411_13_5_20_27_6_2021.log

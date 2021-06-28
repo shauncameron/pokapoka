@@ -1,0 +1,29 @@
+[PokaPoka @ 158133ms/16s/2m/11h, 27d/6mo/2021y] --> Beginning game startup and startup-finish
+[PokaPoka @ 210627ms/18s/2m/11h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(4) --> removed from inventory
+[PokaPoka @ 187405ms/21s/2m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(446.0-720)] with expected peak @ (x:446.0, y:100)
+[PokaPoka @ 201157ms/21s/2m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(446.0-720)] with expected peak @ (x:446.0, y:100)
+[PokaPoka @ 215112ms/21s/2m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(446.0-718)] with expected peak @ (x:446.0, y:100)
+[PokaPoka @ 229454ms/21s/2m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(446.0-714)] with expected peak @ (x:446.0, y:100)
+[PokaPoka @ 244207ms/21s/2m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(446.0-708)] with expected peak @ (x:446.0, y:100)
+[PokaPoka @ 259148ms/21s/2m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(446.0-700)] with expected peak @ (x:446.0, y:100)
+[PokaPoka @ 272115ms/21s/2m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(446.0-690)] with expected peak @ (x:446.0, y:100)
+[PokaPoka @ 285083ms/21s/2m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(446.0-678)] with expected peak @ (x:446.0, y:100)
+[PokaPoka @ 298043ms/21s/2m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(446.0-664)] with expected peak @ (x:446.0, y:100)
+[PokaPoka @ 311367ms/21s/2m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(446.0-648)] with expected peak @ (x:446.0, y:100)
+[PokaPoka @ 325299ms/21s/2m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(446.0-630)] with expected peak @ (x:446.0, y:100)
+[PokaPoka @ 338270ms/21s/2m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(446.0-610)] with expected peak @ (x:446.0, y:100)
+[PokaPoka @ 351237ms/21s/2m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(446.0-588)] with expected peak @ (x:446.0, y:100)
+[PokaPoka @ 628985ms/22s/2m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(401.0-723)] with expected peak @ (x:401.0, y:100)
+[PokaPoka @ 643945ms/22s/2m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(404.0-723)] with expected peak @ (x:404.0, y:100)
+[PokaPoka @ 656916ms/22s/2m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(407.0-721)] with expected peak @ (x:407.0, y:100)
+[PokaPoka @ 669884ms/22s/2m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(410.0-717)] with expected peak @ (x:410.0, y:100)
+[PokaPoka @ 682843ms/22s/2m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(410.0-711)] with expected peak @ (x:410.0, y:100)
+[PokaPoka @ 696775ms/22s/2m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(410.0-703)] with expected peak @ (x:410.0, y:100)
+[PokaPoka @ 710146ms/22s/2m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(410.0-693)] with expected peak @ (x:410.0, y:100)
+[PokaPoka @ 725115ms/22s/2m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(410.0-681)] with expected peak @ (x:410.0, y:100)
+[PokaPoka @ 739111ms/22s/2m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(410.0-667)] with expected peak @ (x:410.0, y:100)
+[PokaPoka @ 752079ms/22s/2m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(410.0-651)] with expected peak @ (x:410.0, y:100)
+[PokaPoka @ 765009ms/22s/2m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(410.0-633)] with expected peak @ (x:410.0, y:100)
+[PokaPoka @ 510479ms/24s/2m/11h, 27d/6mo/2021y] --> Attempted to QUIT @ Esc key
+[PokaPoka @ 510479ms/24s/2m/11h, 27d/6mo/2021y] --> Shutting down (2nd to last) final!
+[PokaPoka @ 510479ms/24s/2m/11h, 27d/6mo/2021y] --> Exported game log

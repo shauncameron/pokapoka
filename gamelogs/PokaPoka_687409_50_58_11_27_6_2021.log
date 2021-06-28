@@ -1,0 +1,60 @@
+[PokaPoka @ 70215ms/51s/58m/11h, 27d/6mo/2021y] --> Beginning game startup and startup-finish
+[PokaPoka @ 116400ms/52s/58m/11h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(8) --> removed from inventory
+[PokaPoka @ 799524ms/52s/58m/11h, 27d/6mo/2021y] --> Item Entity[rgb(232-62-19), size(50-50) @ pos(502-48)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 799524ms/52s/58m/11h, 27d/6mo/2021y] --> Overflow item Entity[rgb(229-253-52), size(50-50) @ pos(500.0-375.0)] interacted with hotbar slot(8) --> added to inventory
+[PokaPoka @ 853586ms/53s/58m/11h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 493651ms/54s/58m/11h, 27d/6mo/2021y] --> Item Entity[rgb(232-62-19), size(50-50) @ pos(461-54)] interacted with hotbar slot(8) --> added to inventory
+[PokaPoka @ 493651ms/54s/58m/11h, 27d/6mo/2021y] --> Overflow item Entity[rgb(229-253-52), size(50-50) @ pos(500.0-375.0)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 677428ms/56s/58m/11h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(485-57)] interacted with hotbar slot(9) resulting in overflow --> Dropped item Entity[rgb(229-253-52), size(50-50) @ pos(1316-50)]
+[PokaPoka @ 691692ms/56s/58m/11h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(1316-50)] interacted with hotbar slot(9) resulting in overflow --> Dropped item Entity[rgb(255-255-255), size(50-50) @ pos(1316-50)]
+[PokaPoka @ 707144ms/56s/58m/11h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(1316-50)] interacted with hotbar slot(9) resulting in overflow --> Dropped item Entity[rgb(255-255-255), size(50-50) @ pos(1316-50)]
+[PokaPoka @ 720112ms/56s/58m/11h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(1316-50)] interacted with hotbar slot(9) resulting in overflow --> Dropped item Entity[rgb(255-255-255), size(50-50) @ pos(1316-50)]
+[PokaPoka @ 732723ms/56s/58m/11h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(1316-50)] interacted with hotbar slot(9) resulting in overflow --> Dropped item Entity[rgb(255-255-255), size(50-50) @ pos(1316-50)]
+[PokaPoka @ 745686ms/56s/58m/11h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(1316-50)] interacted with hotbar slot(9) resulting in overflow --> Dropped item Entity[rgb(255-255-255), size(50-50) @ pos(1316-50)]
+[PokaPoka @ 760909ms/56s/58m/11h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(1316-50)] interacted with hotbar slot(9) resulting in overflow --> Dropped item Entity[rgb(255-255-255), size(50-50) @ pos(1316-50)]
+[PokaPoka @ 775540ms/56s/58m/11h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(1316-50)] interacted with hotbar slot(9) resulting in overflow --> Dropped item Entity[rgb(255-255-255), size(50-50) @ pos(1316-50)]
+[PokaPoka @ 789708ms/56s/58m/11h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(1316-50)] interacted with hotbar slot(9) resulting in overflow --> Dropped item Entity[rgb(255-255-255), size(50-50) @ pos(1316-50)]
+[PokaPoka @ 802678ms/56s/58m/11h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(1316-50)] interacted with hotbar slot(9) resulting in overflow --> Dropped item Entity[rgb(255-255-255), size(50-50) @ pos(1316-50)]
+[PokaPoka @ 815640ms/56s/58m/11h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(1316-50)] interacted with hotbar slot(9) resulting in overflow --> Dropped item Entity[rgb(255-255-255), size(50-50) @ pos(1316-50)]
+[PokaPoka @ 828631ms/56s/58m/11h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(1316-50)] interacted with hotbar slot(9) resulting in overflow --> Dropped item Entity[rgb(255-255-255), size(50-50) @ pos(1316-50)]
+[PokaPoka @ 844217ms/56s/58m/11h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(1316-50)] interacted with hotbar slot(9) resulting in overflow --> Dropped item Entity[rgb(255-255-255), size(50-50) @ pos(1316-50)]
+[PokaPoka @ 859542ms/56s/58m/11h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(1316-50)] interacted with hotbar slot(9) resulting in overflow --> Dropped item Entity[rgb(255-255-255), size(50-50) @ pos(1316-50)]
+[PokaPoka @ 873506ms/56s/58m/11h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(1316-50)] interacted with hotbar slot(9) resulting in overflow --> Dropped item Entity[rgb(255-255-255), size(50-50) @ pos(1316-50)]
+[PokaPoka @ 886471ms/56s/58m/11h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(1316-50)] interacted with hotbar slot(9) resulting in overflow --> Dropped item Entity[rgb(255-255-255), size(50-50) @ pos(1316-50)]
+[PokaPoka @ 899447ms/56s/58m/11h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(1316-50)] interacted with hotbar slot(9) resulting in overflow --> Dropped item Entity[rgb(255-255-255), size(50-50) @ pos(1316-50)]
+[PokaPoka @ 913398ms/56s/58m/11h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(1316-50)] interacted with hotbar slot(9) resulting in overflow --> Dropped item Entity[rgb(255-255-255), size(50-50) @ pos(1316-50)]
+[PokaPoka @ 933709ms/56s/58m/11h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(1316-50)] interacted with hotbar slot(9) resulting in overflow --> Dropped item Entity[rgb(255-255-255), size(50-50) @ pos(1316-50)]
+[PokaPoka @ 950140ms/56s/58m/11h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(1316-50)] interacted with hotbar slot(9) resulting in overflow --> Dropped item Entity[rgb(255-255-255), size(50-50) @ pos(1316-50)]
+[PokaPoka @ 457520ms/57s/58m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(229-253-52), size(50-50) @ pos(1316-726)] with expected peak @ (x:1316, y:100)
+[PokaPoka @ 471712ms/57s/58m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(229-253-52), size(50-50) @ pos(1316-724)] with expected peak @ (x:1316, y:100)
+[PokaPoka @ 484682ms/57s/58m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(229-253-52), size(50-50) @ pos(1316-720)] with expected peak @ (x:1316, y:100)
+[PokaPoka @ 498650ms/57s/58m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(229-253-52), size(50-50) @ pos(1316-714)] with expected peak @ (x:1316, y:100)
+[PokaPoka @ 511634ms/57s/58m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(229-253-52), size(50-50) @ pos(1316-706)] with expected peak @ (x:1316, y:100)
+[PokaPoka @ 526746ms/57s/58m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(229-253-52), size(50-50) @ pos(1316-696)] with expected peak @ (x:1316, y:100)
+[PokaPoka @ 540622ms/57s/58m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(229-253-52), size(50-50) @ pos(1316-684)] with expected peak @ (x:1316, y:100)
+[PokaPoka @ 554624ms/57s/58m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(229-253-52), size(50-50) @ pos(1316-670)] with expected peak @ (x:1316, y:100)
+[PokaPoka @ 567597ms/57s/58m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(229-253-52), size(50-50) @ pos(1316-654)] with expected peak @ (x:1316, y:100)
+[PokaPoka @ 582562ms/57s/58m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(229-253-52), size(50-50) @ pos(1316-636)] with expected peak @ (x:1316, y:100)
+[PokaPoka @ 928546ms/57s/58m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(229-253-52), size(50-50) @ pos(1316-726)] with expected peak @ (x:1316, y:100)
+[PokaPoka @ 943847ms/57s/58m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(229-253-52), size(50-50) @ pos(1316-724)] with expected peak @ (x:1316, y:100)
+[PokaPoka @ 957624ms/57s/58m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(229-253-52), size(50-50) @ pos(1316-720)] with expected peak @ (x:1316, y:100)
+[PokaPoka @ 971585ms/57s/58m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(229-253-52), size(50-50) @ pos(1316-714)] with expected peak @ (x:1316, y:100)
+[PokaPoka @ 984585ms/57s/58m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(229-253-52), size(50-50) @ pos(1316-706)] with expected peak @ (x:1316, y:100)
+[PokaPoka @ 998519ms/57s/58m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(229-253-52), size(50-50) @ pos(1316-696)] with expected peak @ (x:1316, y:100)
+[PokaPoka @ 11478ms/58s/58m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(229-253-52), size(50-50) @ pos(1316-684)] with expected peak @ (x:1316, y:100)
+[PokaPoka @ 25504ms/58s/58m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(229-253-52), size(50-50) @ pos(1316-670)] with expected peak @ (x:1316, y:100)
+[PokaPoka @ 39709ms/58s/58m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(229-253-52), size(50-50) @ pos(1316-654)] with expected peak @ (x:1316, y:100)
+[PokaPoka @ 52673ms/58s/58m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(229-253-52), size(50-50) @ pos(1316-636)] with expected peak @ (x:1316, y:100)
+[PokaPoka @ 420993ms/58s/58m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(229-253-52), size(50-50) @ pos(1316-726)] with expected peak @ (x:1316, y:100)
+[PokaPoka @ 434959ms/58s/58m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(229-253-52), size(50-50) @ pos(1316-724)] with expected peak @ (x:1316, y:100)
+[PokaPoka @ 448972ms/58s/58m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(229-253-52), size(50-50) @ pos(1316-720)] with expected peak @ (x:1316, y:100)
+[PokaPoka @ 462882ms/58s/58m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(229-253-52), size(50-50) @ pos(1316-714)] with expected peak @ (x:1316, y:100)
+[PokaPoka @ 478277ms/58s/58m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(229-253-52), size(50-50) @ pos(1316-706)] with expected peak @ (x:1316, y:100)
+[PokaPoka @ 493222ms/58s/58m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(229-253-52), size(50-50) @ pos(1316-696)] with expected peak @ (x:1316, y:100)
+[PokaPoka @ 508216ms/58s/58m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(229-253-52), size(50-50) @ pos(1316-684)] with expected peak @ (x:1316, y:100)
+[PokaPoka @ 523674ms/58s/58m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(229-253-52), size(50-50) @ pos(1316-670)] with expected peak @ (x:1316, y:100)
+[PokaPoka @ 535642ms/58s/58m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(229-253-52), size(50-50) @ pos(1316-654)] with expected peak @ (x:1316, y:100)
+[PokaPoka @ 548612ms/58s/58m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(229-253-52), size(50-50) @ pos(1316-636)] with expected peak @ (x:1316, y:100)
+[PokaPoka @ 807301ms/58s/58m/11h, 27d/6mo/2021y] --> Attempted to QUIT @ Esc key
+[PokaPoka @ 807301ms/58s/58m/11h, 27d/6mo/2021y] --> Shutting down (2nd to last) final!
+[PokaPoka @ 807301ms/58s/58m/11h, 27d/6mo/2021y] --> Exported game log

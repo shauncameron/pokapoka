@@ -1,0 +1,16 @@
+[PokaPoka @ 635355ms/1s/19m/1h, 27d/6mo/2021y] --> Beginning game startup and startup-finish
+[PokaPoka @ 389888ms/2s/19m/1h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(4) --> removed from inventory
+[PokaPoka @ 386523ms/5s/19m/1h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(558-718)] with expected peak @ (x:558, y:100)
+[PokaPoka @ 400776ms/5s/19m/1h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(555-718)] with expected peak @ (x:555, y:100)
+[PokaPoka @ 413748ms/5s/19m/1h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(552-716)] with expected peak @ (x:552, y:100)
+[PokaPoka @ 426710ms/5s/19m/1h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(549-712)] with expected peak @ (x:549, y:100)
+[PokaPoka @ 439675ms/5s/19m/1h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(546-706)] with expected peak @ (x:546, y:100)
+[PokaPoka @ 454639ms/5s/19m/1h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(543-698)] with expected peak @ (x:543, y:100)
+[PokaPoka @ 469602ms/5s/19m/1h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(540-688)] with expected peak @ (x:540, y:100)
+[PokaPoka @ 483530ms/5s/19m/1h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(537-676)] with expected peak @ (x:537, y:100)
+[PokaPoka @ 497499ms/5s/19m/1h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(534-662)] with expected peak @ (x:534, y:100)
+[PokaPoka @ 510461ms/5s/19m/1h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(531-646)] with expected peak @ (x:531, y:100)
+[PokaPoka @ 523423ms/5s/19m/1h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(528-628)] with expected peak @ (x:528, y:100)
+[PokaPoka @ 13891ms/10s/19m/1h, 27d/6mo/2021y] --> Attempted to QUIT @ Esc key
+[PokaPoka @ 13891ms/10s/19m/1h, 27d/6mo/2021y] --> Shutting down (2nd to last) final!
+[PokaPoka @ 13891ms/10s/19m/1h, 27d/6mo/2021y] --> Exported game log

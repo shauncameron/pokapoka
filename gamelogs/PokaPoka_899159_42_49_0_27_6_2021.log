@@ -1,0 +1,25 @@
+[PokaPoka @ 264894ms/43s/49m/0h, 27d/6mo/2021y] --> Beginning game startup and startup-finish
+[PokaPoka @ 123548ms/44s/49m/0h, 27d/6mo/2021y] --> Toggled gravity --> False
+[PokaPoka @ 318782ms/47s/49m/0h, 27d/6mo/2021y] --> Toggled gravity --> True
+[PokaPoka @ 292370ms/7s/50m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(4) --> removed from inventory
+[PokaPoka @ 780929ms/8s/50m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(496-43)] interacted with hotbar slot(9) --> added to inventory
+[PokaPoka @ 452739ms/9s/50m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(9) --> removed from inventory
+[PokaPoka @ 57853ms/10s/50m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(395-35)] interacted with hotbar slot(7) --> added to inventory
+[PokaPoka @ 552855ms/10s/50m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(7) --> removed from inventory
+[PokaPoka @ 208437ms/11s/50m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(432-36)] interacted with hotbar slot(8) --> added to inventory
+[PokaPoka @ 59527ms/12s/50m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(8) --> removed from inventory
+[PokaPoka @ 102680ms/13s/50m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(242-27)] interacted with hotbar slot(4) --> added to inventory
+[PokaPoka @ 833111ms/13s/50m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(4) --> removed from inventory
+[PokaPoka @ 52827ms/14s/50m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(3) --> removed from inventory
+[PokaPoka @ 176957ms/15s/50m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(197-40)] interacted with hotbar slot(3) --> added to inventory
+[PokaPoka @ 457742ms/17s/50m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(241-27)] interacted with hotbar slot(4) --> added to inventory
+[PokaPoka @ 175033ms/18s/50m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(4) --> removed from inventory
+[PokaPoka @ 761508ms/18s/50m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(3) --> removed from inventory
+[PokaPoka @ 313595ms/19s/50m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(2) --> removed from inventory
+[PokaPoka @ 57209ms/20s/50m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(1) --> removed from inventory
+[PokaPoka @ 274743ms/20s/50m/0h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(0) --> removed from inventory
+[PokaPoka @ 927619ms/22s/50m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(38-29)] interacted with hotbar slot(0) --> added to inventory
+[PokaPoka @ 750878ms/24s/50m/0h, 27d/6mo/2021y] --> Item Entity[rgb(255-255-255), size(50-50) @ pos(268-33)] interacted with hotbar slot(4) --> added to inventory
+[PokaPoka @ 691402ms/25s/50m/0h, 27d/6mo/2021y] --> Attempted to QUIT @ Esc key
+[PokaPoka @ 691402ms/25s/50m/0h, 27d/6mo/2021y] --> Shutting down (2nd to last) final!
+[PokaPoka @ 691402ms/25s/50m/0h, 27d/6mo/2021y] --> Exported game log

@@ -1,0 +1,15 @@
+[PokaPoka @ 379725ms/37s/45m/17h, 27d/6mo/2021y] --> Beginning game startup and startup-finish
+[PokaPoka @ 929054ms/38s/45m/17h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(626.0-668)] with expected peak @ (x:626.0, y:100)
+[PokaPoka @ 945446ms/38s/45m/17h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(629.0-668)] with expected peak @ (x:629.0, y:100)
+[PokaPoka @ 961703ms/38s/45m/17h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(632.0-666)] with expected peak @ (x:632.0, y:100)
+[PokaPoka @ 978263ms/38s/45m/17h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(635.0-662)] with expected peak @ (x:635.0, y:100)
+[PokaPoka @ 995357ms/38s/45m/17h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(638.0-656)] with expected peak @ (x:638.0, y:100)
+[PokaPoka @ 10305ms/39s/45m/17h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(641.0-648)] with expected peak @ (x:641.0, y:100)
+[PokaPoka @ 26129ms/39s/45m/17h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(644.0-638)] with expected peak @ (x:644.0, y:100)
+[PokaPoka @ 42949ms/39s/45m/17h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(647.0-626)] with expected peak @ (x:647.0, y:100)
+[PokaPoka @ 59607ms/39s/45m/17h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(650.0-612)] with expected peak @ (x:650.0, y:100)
+[PokaPoka @ 75293ms/39s/45m/17h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(653.0-596)] with expected peak @ (x:653.0, y:100)
+[PokaPoka @ 92267ms/39s/45m/17h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(656.0-578)] with expected peak @ (x:656.0, y:100)
+[PokaPoka @ 962160ms/52s/45m/17h, 27d/6mo/2021y] --> Attempted to QUIT @ Esc key
+[PokaPoka @ 962160ms/52s/45m/17h, 27d/6mo/2021y] --> Shutting down (2nd to last) final!
+[PokaPoka @ 962160ms/52s/45m/17h, 27d/6mo/2021y] --> Exported game log as PokaPoka_18351_37_45_17_27_6_2021.log

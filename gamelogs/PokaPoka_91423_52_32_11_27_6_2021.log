@@ -1,0 +1,19 @@
+[PokaPoka @ 494722ms/52s/32m/11h, 27d/6mo/2021y] --> Beginning game startup and startup-finish
+[PokaPoka @ 733233ms/53s/32m/11h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(2) --> removed from inventory
+[PokaPoka @ 874120ms/53s/32m/11h, 27d/6mo/2021y] --> Item Entity[rgb(29-43-205), size(50-50) @ pos(159-48)] interacted with hotbar slot(2) --> added to inventory
+[PokaPoka @ 393108ms/54s/32m/11h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(2) --> removed from inventory
+[PokaPoka @ 103446ms/55s/32m/11h, 27d/6mo/2021y] --> Mouse interacted with hotbar slot(1) --> removed from inventory
+[PokaPoka @ 964360ms/5s/33m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(401.0-718)] with expected peak @ (x:401.0, y:100)
+[PokaPoka @ 977325ms/5s/33m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(401.0-718)] with expected peak @ (x:401.0, y:100)
+[PokaPoka @ 990325ms/5s/33m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(401.0-716)] with expected peak @ (x:401.0, y:100)
+[PokaPoka @ 3254ms/6s/33m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(401.0-712)] with expected peak @ (x:401.0, y:100)
+[PokaPoka @ 17988ms/6s/33m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(401.0-706)] with expected peak @ (x:401.0, y:100)
+[PokaPoka @ 33362ms/6s/33m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(401.0-698)] with expected peak @ (x:401.0, y:100)
+[PokaPoka @ 47996ms/6s/33m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(401.0-688)] with expected peak @ (x:401.0, y:100)
+[PokaPoka @ 60966ms/6s/33m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(401.0-676)] with expected peak @ (x:401.0, y:100)
+[PokaPoka @ 73928ms/6s/33m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(401.0-662)] with expected peak @ (x:401.0, y:100)
+[PokaPoka @ 86921ms/6s/33m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(401.0-646)] with expected peak @ (x:401.0, y:100)
+[PokaPoka @ 101881ms/6s/33m/11h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(401.0-628)] with expected peak @ (x:401.0, y:100)
+[PokaPoka @ 269378ms/19s/33m/11h, 27d/6mo/2021y] --> Attempted to QUIT @ Esc key
+[PokaPoka @ 269378ms/19s/33m/11h, 27d/6mo/2021y] --> Shutting down (2nd to last) final!
+[PokaPoka @ 269378ms/19s/33m/11h, 27d/6mo/2021y] --> Exported game log

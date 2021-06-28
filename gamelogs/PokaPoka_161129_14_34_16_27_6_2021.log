@@ -1,0 +1,16 @@
+[PokaPoka @ 587922ms/14s/34m/16h, 27d/6mo/2021y] --> Beginning game startup and startup-finish
+[PokaPoka @ 646180ms/15s/34m/16h, 27d/6mo/2021y] --> Toggled developergui --> True
+[PokaPoka @ 105329ms/22s/34m/16h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(656.0-668)] with expected peak @ (x:656.0, y:100)
+[PokaPoka @ 122280ms/22s/34m/16h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(659.0-668)] with expected peak @ (x:659.0, y:100)
+[PokaPoka @ 138237ms/22s/34m/16h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(662.0-666)] with expected peak @ (x:662.0, y:100)
+[PokaPoka @ 156159ms/22s/34m/16h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(665.0-662)] with expected peak @ (x:665.0, y:100)
+[PokaPoka @ 173145ms/22s/34m/16h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(668.0-656)] with expected peak @ (x:668.0, y:100)
+[PokaPoka @ 191103ms/22s/34m/16h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(671.0-648)] with expected peak @ (x:671.0, y:100)
+[PokaPoka @ 207059ms/22s/34m/16h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(674.0-638)] with expected peak @ (x:674.0, y:100)
+[PokaPoka @ 225008ms/22s/34m/16h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(677.0-626)] with expected peak @ (x:677.0, y:100)
+[PokaPoka @ 242927ms/22s/34m/16h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(680.0-612)] with expected peak @ (x:680.0, y:100)
+[PokaPoka @ 262874ms/22s/34m/16h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(683.0-596)] with expected peak @ (x:683.0, y:100)
+[PokaPoka @ 281828ms/22s/34m/16h, 27d/6mo/2021y] --> Began jumping *Entity[rgb(255-255-255), size(50-50) @ pos(686.0-578)] with expected peak @ (x:686.0, y:100)
+[PokaPoka @ 938945ms/26s/34m/16h, 27d/6mo/2021y] --> Attempted to QUIT @ Esc key
+[PokaPoka @ 938945ms/26s/34m/16h, 27d/6mo/2021y] --> Shutting down (2nd to last) final!
+[PokaPoka @ 938945ms/26s/34m/16h, 27d/6mo/2021y] --> Exported game log as PokaPoka_161129_14_34_16_27_6_2021.log
